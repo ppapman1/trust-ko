@@ -1,14 +1,13 @@
-@font-face{
-	font-family: 'FuturaHandwritten';
-	font-style: normal;
-	src: url('FuturaHandwritten.ttf') format('truetype');
-}
-
-# Misaeng Font for Korean characters
-@font-face{
-	font-family: 'Misaeng';
-	font-style: normal;
-	src: url('misaeng.ttf') format('truetype');
+@font-face {
+    font-family: 'sd-misaeng';
+    src: url('sdmisaeng.eot');
+    src: url('sdmisaeng.eot?#iefix') format('embedded-opentype'),
+         url('sdmisaeng.woff2') format('woff2'),
+         url('sdmisaeng.woff') format('woff'),
+         url('sdmisaeng.ttf') format('truetype'),
+         url('sdmisaeng.svg#sd-misaeng') format('svg');
+    font-weight: normal;
+    font-style: normal;
 }
 
 html,body{
@@ -23,9 +22,9 @@ body{
 
 	background: #fff;
 
-	font-family: 'Misaeng', 'FuturaHandwritten';
+	font-family: 'sd-misaeng';
 	color: #333;
-	font-size: 20px;
+	font-size: 26px;
 
 }
 #preloader{
@@ -59,7 +58,7 @@ s{
 
 #translations{
 	margin: 10px auto;
-    font-size: 16px;
+    font-size: 20px;
     line-height: 21px;
     color: #fff;
     text-align: center;
@@ -208,7 +207,7 @@ s{
 }
 .button #text{
 	
-	font-family: 'FuturaHandwritten';
+	font-family: 'sd-misaeng';
 	color: #000;
 	font-size: 24px;
 
