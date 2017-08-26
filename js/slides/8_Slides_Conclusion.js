@@ -10,7 +10,7 @@ SLIDES.push({
 		});
 		self.add({
 			id:"text2", type:"TextBox",
-			x:176, y:65-10, width:760, size:30, color:"#4089DD",
+			x:176, y:65-10, width:760, size:40, color:"#4089DD",
 			text_id:"conclusion_1_a"
 		});
 		self.add({
@@ -20,7 +20,7 @@ SLIDES.push({
 		});
 		self.add({
 			id:"text4", type:"TextBox",
-			x:176, y:192-10, width:760, size:30, color:"#efc701",
+			x:176, y:192-10, width:760, size:40, color:"#efc701",
 			text_id:"conclusion_2_a"
 		});
 		self.add({
@@ -30,7 +30,7 @@ SLIDES.push({
 		});
 		self.add({
 			id:"text6", type:"TextBox",
-			x:176, y:316-10, width:760, size:30, color:"#DD4040",
+			x:176, y:316-10, width:760, size:40, color:"#DD4040",
 			text_id:"conclusion_3_a"
 		});
 		self.add({

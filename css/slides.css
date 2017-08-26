@@ -24,7 +24,7 @@ body{
 
 	font-family: 'sd-misaeng';
 	color: #333;
-	font-size: 26px;
+	font-size: 27.5px;
 
 }
 #preloader{
@@ -209,7 +209,7 @@ s{
 	
 	font-family: 'sd-misaeng';
 	color: #000;
-	font-size: 24px;
+	font-size: 35px;
 
 	width: 180px;
 	height: 30px;
@@ -475,7 +475,7 @@ s{
 }
 .icon_label{
 	display: inline-block;
-	font-size: 20px;
+	font-size: 28px;
 	position: relative;
     top: -3px;
 }
