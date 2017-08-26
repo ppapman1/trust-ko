@@ -4,6 +4,13 @@
 	src: url('FuturaHandwritten.ttf') format('truetype');
 }
 
+# Misaeng Font for Korean characters
+@font-face{
+	font-family: 'Misaeng';
+	font-style: normal;
+	src: url('misaeng.ttf') format('truetype');
+}
+
 html,body{
 	width: 100%;
 	height: 100%;
@@ -16,7 +23,7 @@ body{
 
 	background: #fff;
 
-	font-family: 'FuturaHandwritten';
+	font-family: 'Misaeng', 'FuturaHandwritten';
 	color: #333;
 	font-size: 20px;
 
