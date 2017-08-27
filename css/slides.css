@@ -442,7 +442,7 @@ s{
 }
 .character #desc{
 	width: calc(100% - 100px);
-	font-size: 18px;
+	font-size: 24px;
 	height: 114px;
 	right: 0;
 	line-height: 1.2em;

@@ -51,7 +51,7 @@ SLIDES.push({
 		self.add({
 			id:"forgot", type:"TextBox",
 			x:728, y:408, width:200, height:50,
-			align:"center", color:"#aaa", size:16,
+			align:"center", color:"#aaa", size:24,
 			text_id:"forgot_whos_who"
 		});
 		
