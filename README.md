@@ -1,6 +1,6 @@
-!["신뢰의 진화 이미지 파일"](https://i.imgur.com/kde760y.png)
+!["신뢰의 진화 이미지 파일"](https://i.imgur.com/HSF4Tue.jpg)
 
-# [https://osori.github.io/trust-ko/](https://osori.github.io/trust-ko/)에서 플레이하실 수 있습니다
+# [이곳을 눌러](https://osori.github.io/trust-ko/) 플레이하실 수 있습니다
 
 [ncase의 The evolution of trust](https://github.com/ncase/trust)를 한국어 번역한 리포지토리입니다.
 
