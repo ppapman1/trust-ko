@@ -58,16 +58,28 @@ s{
 
 #translations{
 	margin: 10px auto;
-  font-size: 16px;
+	height: 40px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
   line-height: 17px;
   color: #fff;
   text-align: center;
   width: 960px;
   letter-spacing: -0.5px;
 }
+
 #translations a{
 	color:#dd4040;
 }
+
+#lang-select {
+	padding: 5px 10px;
+	font-family: 'sd-misaeng';
+	font-size: 0.7em;
+	border-radius: 10px;
+}
+
 #translations a:hover{
 	color:#ee5151;
 }
