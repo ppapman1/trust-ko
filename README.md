@@ -33,6 +33,10 @@
 
 **글꼴:** [Futura Handwritten](http://www.dafont.com/futurahandwritten.font), 제작자: Bill Snyder
 
-# "라이선스"
+# 번역을 돕고 싶어요!
+
+[원본 리포지토리](https://github.com/ncase/trust#how-to-translate-this-thang)에서 번역 방법에 대해 확인하실 수 있습니다.
+
+# 라이선스
 
 [크리에이티브 커먼즈 제로](https://github.com/ncase/trust/blob/gh-pages/LICENSE): 신뢰의 도약은 퍼블릭 도메인입니다. 그러니, 이 프로젝트를 당신이 원하는 것을 마음대로 할 수 있습니다! 저작자 표시를 해 주신다면 정말 감사하겠지만, 없더라도 법적으로 문제 삼지 않겠습니다.
