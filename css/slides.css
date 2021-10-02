@@ -58,11 +58,12 @@ s{
 
 #translations{
 	margin: 10px auto;
-    font-size: 20px;
-    line-height: 21px;
+    font-size: 10.5px;
+    line-height: 19px;
     color: #fff;
     text-align: center;
-    width: 700px;
+    width: 960px;
+    letter-spacing: -0.5px;
 }
 #translations a{
 	color:#dd4040;
